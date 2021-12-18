@@ -6,6 +6,7 @@ This README doccuments the methods used to solve the Jane Street puzzle for Nove
 
 ## Puzzle
 ![alt text](https://www.janestreet.com/puzzles/2021-11-01-split-division-2.png)
+
 Two long division problems were calculated, and both problems had the exact same shape. At some places, the digits from the two problems were both positive and had a greatest common divisor that was larger than 1. All of those spots are marked with their respective GCDs.
 
 The answer to this puzzle is the sum of the two 7-digit dividends in the completed long division problems.
